@@ -1,0 +1,28 @@
+.hero{
+    display: flex;
+    justify-content: space-around;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.label{
+   display: flex;
+    flex-direction: column;
+}
+.part1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid red;
+    width: 300px    ;
+}
+.hide{
+    display: none;
+}
+.box{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
